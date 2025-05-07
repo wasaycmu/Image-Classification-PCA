@@ -1,7 +1,6 @@
 # Image-Classification-PCA
 
-# Sports Image Classification - Lab Assignment 2
-
+# Sports Image Classification 
 ## Technologies and Techniques Used
 
 - **Languages & Libraries**: Python, Pandas, NumPy, Matplotlib, PIL (Pillow), Scikit-learn, Plotly
