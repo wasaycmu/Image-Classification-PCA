@@ -86,14 +86,6 @@ Organizations like MLB can scan thousands of images for marketing, analysis, or 
 
 ---
 
-## Authors
-
-- Aitor Gonzalez (49092725)
-- Palmer Nelson (47066829)
-- Abdul Wasay (49121481)
-
----
-
 ## License
 
 Dataset is licensed under Open Data Commons Attribution License (ODC-By) v1.0.
